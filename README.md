@@ -27,3 +27,30 @@ IMDB Movie Reviews Dataset: A collection of 50,000 labeled reviews split into tr
 
 ## Feel free to contribute, report issues, or suggest enhancements! 🎉
 
+### classification report
+![classification report](https://github.com/RICE36a10/CineCritic/blob/main/Assets/Classification%20Report.jpg?raw=true)
+
+
+### Accuracy vs Epochs
+![Accuracy vs Epochs](https://github.com/RICE36a10/CineCritic/blob/main/Assets/Accuracy%20vs%20Epochs.jpg?raw=true)
+
+
+### Confusion Matrix
+![Confusion Matrix](https://github.com/RICE36a10/CineCritic/blob/main/Assets/Confusion%20Matrix.jpg?raw=true)
+
+
+### Model_loss vs Epochs
+![Model_loss vs Epochs](https://github.com/RICE36a10/CineCritic/blob/main/Assets/Model_loss%20vs%20Epochs.jpg?raw=true)
+
+
+### Negative classification
+![Negative classification](https://github.com/RICE36a10/CineCritic/blob/main/Assets/Negative%20classification.jpg?raw=true)
+
+
+### Positive classification
+![Positive classification](https://github.com/RICE36a10/CineCritic/blob/main/Assets/Positive%20classification.jpg?raw=true)
+
+
+
+
+
